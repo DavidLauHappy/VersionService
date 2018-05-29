@@ -1,0 +1,9 @@
+20180315-13:47:11.145 : AppPeer初始化网络线程服务于ip:172.24.140.199
+20180315-13:47:11.149 : 启动并开始处理来自[172.24.140.199]指令
+20180315-13:47:11.238 : 开始传输文件：C:\Users\David\workspace\VersionService\workDir\Client\v002\Client.exe,$BASEDIR\v002,40b0aa8be019780ef395611ec5f1621e
+20180315-13:47:13.611 : 开始传输文件：C:\Users\David\workspace\VersionService\workDir\Client\v002\icon\icon_about.png,$BASEDIR\v002\icon,70d2bf5531232769bc390535d9a15bbc
+20180315-13:47:13.615 : 开始传输文件：C:\Users\David\workspace\VersionService\workDir\Client\v002\icon\icon_action.png,$BASEDIR\v002\icon,84c9f6be9326930aebdb7ed98b1ac67d
+20180315-13:47:13.617 : 开始传输文件：C:\Users\David\workspace\VersionService\workDir\Client\v002\icon\icon_add.png,$BASEDIR\v002\icon,e0ef4efeacb4bca04a263d1fec2dac70
+20180315-13:47:13.619 : 应用Client的版本包v002推送完成
+20180315-13:47:13.723 : 版本推送完成，服务线程结束！
+20180315-13:47:13.726 : 版本推送完成，服务线程结束！

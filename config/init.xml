@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!-- SYSTEM CONFIGURATION-->
+<SYSPARAM>
+  <portNo>8096</portNo>
+  <!-- 服务端口号-->
+  <runFlag>Yes</runFlag>
+  <!-- 服务终止开关Y/N-->
+</SYSPARAM>
+
